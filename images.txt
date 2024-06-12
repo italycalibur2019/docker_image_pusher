@@ -2,3 +2,4 @@ nginx
 kasmweb/nginx:1.25.3
 mysql:latest
 redis:latest
+rabbitmq:latest
